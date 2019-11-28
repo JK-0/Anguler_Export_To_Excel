@@ -1,4 +1,4 @@
-# Export HTML_Data Table To XLSX
+# Export HTML_Table / Json To XLSX
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
